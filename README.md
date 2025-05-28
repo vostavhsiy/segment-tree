@@ -9,5 +9,5 @@
    ```
 3. Run the tests:
    ```bash
-   mvn test
+   ./mvnw test
    ```
